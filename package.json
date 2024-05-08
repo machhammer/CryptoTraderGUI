@@ -1,5 +1,6 @@
 {
   "name": "crytpo_trader",
+  "homepage": "https://ma.cryptotrader.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
