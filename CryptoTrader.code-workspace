@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../CryptoTrader"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "192.168.1.123",
+				"port": 3306,
+				"driver": "MariaDB",
+				"name": "CryptoTrader",
+				"database": "cryptotrader",
+				"username": "crypto"
+			}
+		]
+	}
+}
