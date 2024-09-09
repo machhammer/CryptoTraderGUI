@@ -1,5 +1,6 @@
 
 import Balances from './components/balances';
+import TradingInfo from './components/tradinginfo';
 
 function App() {
   return (
@@ -9,9 +10,9 @@ function App() {
           Crypto Trader
         </p>
       </header>
-      <body>
-        <Balances/>
-      </body>
+      
+        <TradingInfo/>
+      
     </div>
   );
 }
